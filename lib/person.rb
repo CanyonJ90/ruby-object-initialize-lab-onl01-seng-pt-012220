@@ -14,7 +14,7 @@ class Person
 end
 
 class Dog 
-  def (dogs_name)
+  def initialize (dogs_name)
     @name = dogs_name
   end
   
