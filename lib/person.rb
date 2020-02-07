@@ -14,3 +14,5 @@ class Person
 end
 
  
+ 
+ class dog
