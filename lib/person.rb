@@ -13,9 +13,7 @@ class Person
   
 end
 
- 
- 
- class Dog 
+class Dog 
     def (dogs_name)
     @name = dogs_name
   end
