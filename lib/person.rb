@@ -15,4 +15,7 @@ end
 
  
  
- class dog
+ class Dog 
+    def (dogs_name)
+    @name = dogs_name
+  end
